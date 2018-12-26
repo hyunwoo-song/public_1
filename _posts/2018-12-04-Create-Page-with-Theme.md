@@ -4,49 +4,12 @@ title:  2주차에 한일
 
 2주차에는 Git 사용법부터 챗봇을 만드는 법에 대해서 배워봤습니다. 
 
-* 아래 주소에 접속하여 마음에 드는 테마를 선택합니다.
-  - [https://github.com/topics/jekyll-theme](https://github.com/topics/jekyll-theme)
-  - 테마마다 설정 방법이 조금씩 상이하므로 편의상 첫 번째 나오는 mmistakes / minimal-mistakes를 권장합니다.
-
   ![Join GitHub](../images/04-01_Select-Theme.png){: width="600px"}
   
 
-* _config.yml 파일을 찾아 클릭합니다.
+* dict 구조를 배워보았다.
 
   ![Join GitHub](../images/04-02_Select-Config-File.png){: width="600px"}
-  
-  
-* [Raw] 버튼 또는 연필 아이콘을 클릭해서 문서의 내용을 복사합니다.
-
-  ![Join GitHub](../images/04-03_Copy-Config-File.png){: width="600px"}
-  
-  
-* 자신의 Repository로 돌아와 [Create new file]을 클릭합니다.
-
-  ![Join GitHub](../images/03-01_Create-New-File.png){: width="600px"}
-  
-  
-* 파일명을 \_config.yml로 하고 본문에 복사한 내용을 붙여 넣습니다.
-* 단, 내용 중 일부는 현재 환경에 맞게 변경해야 하므로 아래 항목을 수정하고나서 [Commit]합니다.
-  ```
-  remote_theme             : "mmistakes/minimal-mistakes"
-  title                    : "팀명"
-  description              : "한 줄 소개"
-  url                      : "https://사용자명.github.io" \# 예: https://ssafy2018.github.io"
-  baseurl                  : "Repository명" \# "public"
-  ```
-  
-  ![Join GitHub](../images/04-04_Modify-Config-File.png){: width="600px"}
-
-
-* 블로그의 시작 페이지 역할을 할 index.html 파일을 만들고 layout 값을 적어 [Commit]합니다.
-  ```
-  ---
-  layout: home
-  ---
-  ```
-  
-  ![Join GitHub](../images/04-05_Create-Index.png){: width="600px"}
   
   
 * Settings에서 브랜치명 선택, [Save] 클릭을 통해 Pages를 활성화합니다.
