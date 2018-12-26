@@ -11,4 +11,8 @@ title:  2주차에 한일
 
   ![Join GitHub](../images/04-02_Select-Config-File.png){: width="600px"}
   
+* dict 구조를 배워보았다.
+
+  ![Join GitHub](../images/08-02_git.png){: width="600px"}
+  
   
