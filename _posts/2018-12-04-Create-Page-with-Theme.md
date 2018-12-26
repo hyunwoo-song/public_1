@@ -4,7 +4,7 @@ title:  2주차에 한일
 
 2주차에는 Git 사용법을 배워봤습니다. 
 
-  ![Join GitHub](../images/08-02_git){: width="600px"}
+  ![Join GitHub](../images/08-02_git.png){: width="600px"}
   
 
 * dict 구조를 배워보았다.
