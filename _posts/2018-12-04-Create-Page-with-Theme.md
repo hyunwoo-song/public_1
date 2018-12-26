@@ -1,9 +1,8 @@
 ---
-title:  블로그 만들기
+title:  2주차에 한일
 ---
 
-GitHub는 Page 기능을 제공하는데, Jekyll과 같은 테마를 적용해 이를 블로그처럼 활용할 수 있습니다.
-덕분에 GitHub가 코드 관리뿐만 아니라 기술 블로그나 포트폴리오로 사용되는 경우도 적잖게 볼 수 있습니다.
+2주차에는 Git 사용법부터 챗봇을 만드는 법에 대해서 배워봤습니다. 
 
 * 아래 주소에 접속하여 마음에 드는 테마를 선택합니다.
   - [https://github.com/topics/jekyll-theme](https://github.com/topics/jekyll-theme)
